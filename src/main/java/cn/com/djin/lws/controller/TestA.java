@@ -9,4 +9,8 @@ public class TestA {
     public void test01(){
         System.out.println("组员3第一次修改test01..");
     }
+
+    public void test02(){
+        System.out.println("组员2第二次修改test02..");
+    }
 }
